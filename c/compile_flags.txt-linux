@@ -1,0 +1,6 @@
+
+-ansi
+-Wall
+-pedantic
+-pedantic-errors
+-Wno-empty-translation-unit
