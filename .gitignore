@@ -1,4 +1,5 @@
 cs/**/bin/*
 cs/**/obj/*
 c/**/*.out
+c/compile_flags.txt
 .vscode
