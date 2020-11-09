@@ -1,4 +1,4 @@
 cs/**/bin/*
 cs/**/obj/*
-
+c/**/*.out
 .vscode
